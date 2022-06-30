@@ -1,0 +1,230 @@
+*{margin:0 auto; padding: 0;}
+.q{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.ks{
+    margin-left: 75px;
+}
+.daohanglan {
+    background: #333333;
+    height: 50px;
+}
+.daohanglan img {
+    float: left;
+}
+.daohanglan ul {
+    float: left;
+    padding-left: 5px;
+}
+.daohanglan ul li {
+    float: left;
+    padding-left: 13px;
+    margin-top: 13.5px;
+}
+.daohanglan a{
+    font-size: 16px;
+    color: #ccc;
+}
+.daohanglan a:hover {
+    color: #fff;
+}
+.daohanglan ul .dl{
+    float: right;
+    margin-top: 10px;
+    line-height: 30px;
+    width: 83px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-right: -1000px;
+}
+.daohanglan ul .dl a{
+    color: #666;
+}
+.daohanglan ul .dl a:hover{
+    color: #ff5858;
+}
+.dingbu a img{
+    float: left;
+    margin-left: 150px;
+}
+.dingbu .sousuo .ss{
+    margin-top: -1px;
+}
+.yinshi {
+    padding: 10px;
+    float: left;
+    padding-top: 20px;
+}
+.a2 {
+    float: left;
+    padding-left: 230px;
+}
+.dingbu a{
+    color: #000;
+    float: left;
+}
+.dingbu a:hover {
+    color: red;
+}
+.a2 ul{
+    margin-left: -45px;
+}
+.a2 ul li {
+    float: left;
+    padding-left: 30px;
+    padding-top: 25px;
+    font-size: 23px;
+}
+.sousuo {
+   float: right;
+   margin-left: 557px;
+   margin-top: -30px;
+}
+input {
+    width: 150px;
+    height: 30px;
+}
+.sousuo img {
+    position: absolute;
+}
+.zhongjian1 {
+  float: left;
+  margin-left: 150px;
+  height: 34px;
+  border-bottom: 1px solid #ff6767;
+  border-top: 1px solid #ff5858;
+  width: 1280px;
+  margin-top: 15px;
+}
+.zhongjian1 ul li {
+    float: left;
+    padding-left: 15px;
+    margin: 0 auto;
+    padding-top: 6px;
+}
+.zhongjian1 .right {
+    float: right;
+    padding-top: 6px;
+    padding-right: 10px;
+}
+.zi{
+    float: left;
+    width: 1280px;
+    margin-top: 35px;
+    margin-left: 151px;
+}
+.sl{
+    float: left;
+    width: 230px;
+    height: 300px;
+    background-color: #dddddd;
+}
+h2{
+    color: #666;
+}
+.sl h2{
+    margin: 125px 55px;
+    color: #666;
+}
+td:hover{
+    background-color: #dddddd;
+}
+.qb a{
+    font-size: 24px;
+    color: #333;
+}
+td{
+    width: 245px;
+    height: 95px;
+}
+table{
+    border-color: #eee;
+}
+.sll{
+    float: left;
+    width: 230px;
+    height: 500px;
+    background-color: #dddddd;
+}
+.sll .r{
+    margin-top: 225px;
+    margin-left: 80px;
+}
+.slll{
+    float: left;
+    width: 230px;
+    height: 600px;
+    background-color: #dddddd;
+}
+.slll .s{
+    margin-top: 270px;
+    margin-left: 70px;
+}
+.sllll{
+    float: left;
+    width: 230px;
+    height: 681px;
+    background-color: #dddddd;
+}
+.sllll .c{
+    margin-top: 310px;
+    margin-left: 80px;
+}
+.slllll{
+    float: left;
+    width: 230px;
+    height: 500px;
+    background-color: #dddddd;
+}
+.slllll .d{
+    margin-top: 225px;
+    margin-left: 70px;
+}
+.dibu {
+    float: left;
+    margin-top: 110px;
+    width: 100%;
+    height: 245px;
+    color: #666666;
+    font-size: 10px;
+    position: relative;
+}
+.dibu h1 {
+    color: #ff5500;
+    padding-left: 100px;
+}
+h1 {
+    border-top: 1px solid black;
+}
+.dibu p img{
+    width: 20px;
+    height: 20px;
+}
+.p1 {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.p22 {
+    padding-left: 100px;
+}
+.dibu1 img{
+    width: 80px;
+    height: 80px;
+}
+.dibu1 ul {
+    padding-left: 1000px;
+    margin-top: -110px;
+}
+.dibu1 ul li {
+    float: left;
+    padding-left: 20px;
+}

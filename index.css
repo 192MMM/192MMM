@@ -1,0 +1,580 @@
+*{margin:0 auto; padding: 0;}
+.q{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.ks{
+    margin-left: 75px;
+}
+.daohanglan {
+    background: #333333;
+    height: 50px;
+}
+.daohanglan img {
+    float: left;
+}
+.daohanglan ul {
+    float: left;
+    padding-left: 5px;
+}
+.daohanglan ul li {
+    float: left;
+    padding-left: 13px;
+    margin-top: 13.5px;
+}
+.daohanglan a{
+    font-size: 16px;
+    color: #ccc;
+}
+.daohanglan a:hover {
+    color: #fff;
+}
+.daohanglan ul .dl{
+    float: right;
+    margin-top: 10px;
+    line-height: 30px;
+    width: 83px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-right: -1000px;
+}
+.daohanglan ul .dl a{
+    color: #666;
+}
+.daohanglan ul .dl a:hover{
+    color: #ff5858;
+}
+.toubu img{
+    float: left;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.toubu ul{
+    margin-left: 243px;
+}
+.toubu ul li{
+    float: left;
+    margin-left: 56px;
+    padding-left: 7.5px;
+    margin-top: 25px;
+}
+.logo{
+    float: left;
+    margin-left: 160px;
+}
+.toubu .zi .ye1{
+    color: #f54848;
+}
+.toubu ul li a {
+    float: left;
+    font-size: 26px;   
+    color: rgb(65, 65, 65); 
+}
+.toubu ul li a:hover{
+    color: #f54848;
+}
+.kuang {
+    height: 30px;
+    margin-left: 77px;
+    margin-top: 26px;
+}
+.toubu a img {
+    float: right;
+    margin-right: 52px;
+    margin-top: -35px;
+    position: relative;
+}
+.saixuan{
+    margin-top: 40px;
+    margin-left: 245px;
+}
+.saixuan a{
+    color: #fff;
+}
+.saixuan a{
+    width: 245px;
+    height: 72px;
+    display: block;
+    background-color: #767b7e;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    text-indent: 2.5em;
+    line-height: 65px;
+}
+.saixuan a:hover{
+    background-color: #f54848;
+}
+.wz {
+     float: left;
+ }
+.wz b{
+    margin-left: -10px;
+    padding-right: 3px;
+}
+.saixuan span{
+    margin-left: 10px;
+}
+.beijing {
+    position: absolute;
+    float: left;
+    background: url(images/beijing.jpg);
+    width: 990px;
+    height: 360px;
+    z-index: -1;
+    margin-left: 55px;
+}
+.dika h5{
+    font-size: 12px;
+    color: #666;
+}
+.dika h2 a {
+    color: rgb(75, 72, 72);
+}
+.caipu {
+    float: left;
+    margin-left: 243px;
+    margin-top: 43px;
+    width: 1050px;
+    height: 145px;
+    background-color: #eeeeee;
+}
+.caipu h3 a {
+    color: #000;
+}
+ h3 a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.one {
+    float: left;
+    width: 330px;
+    height: 151px;
+}
+.one h3 {
+    padding-left: 20px;
+    padding-top: 21px;
+    font-size: 22px;
+}
+.p1 {
+    font-size: 10px;
+    padding-left: 20px;
+    padding-top: 15px;
+    color: #a4a4a4;
+}
+.one  p {
+    font-size: 13px;
+    padding-top: 10px;
+    padding-left: 20px;
+    overflow: hidden;
+}
+.two {
+    float: left;
+    margin-left: 20px;
+    width: 330px;
+    height: 151px;
+}
+.two h3 {
+    padding-top: 21px;
+    font-size: 22px;
+}
+.p2 {
+    font-size: 10px;
+    padding-top: 15px;
+    color: #a4a4a4
+}
+.two p {
+    font-size: 13px;
+    padding-top: 10px;
+}
+.san {
+    float: left;
+    margin-left: 20px;
+    width: 330px;
+    height: 151px;
+}
+.san h3 {
+    margin-top: 21px;
+    font-size: 22px;
+}
+.p3 {
+    font-size: 10px;
+    padding-top: 15px;
+    color: #a4a4a4;
+}
+.san  p {
+    font-size: 13px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+.jiachang{
+   width: 1053px;
+   height: 100px;
+   margin-top: 640px; 
+   margin-left: 240px;
+}
+.jiachang .j{
+    color: #ff6767;
+    border-bottom: 3px solid #ff6767;
+}
+.jiachang a{
+    padding-right: 7px;
+    color: #414141;
+}
+.jiachang a:hover{
+    color: #ff6767;
+}
+.jiachang1{
+    font-size: 24px;
+}
+.jiachang2{
+    float: right;
+    font-size: 18px;
+    margin: 3px -8px 0px 0px;
+}
+.tupian{
+    float: left;
+    margin-top: 22px;
+    width: 320px;
+    height: 350px;
+}
+.tupian{
+    padding-right: 46px;
+}
+.tupian:nth-child(3n){
+    padding-right: 0px;
+}
+.tupian .tupian1 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian1 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/1.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian2 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian2 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/2.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian3 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian3 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/3.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian4 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian4 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/4.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian5 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian5 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/5.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian6 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian6 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/6.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian7 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian7 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/7.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian8 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian8 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/8.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian9 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian9 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/9.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian10 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian10 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/10.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian11 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian11 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/11.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian12 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian12 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/12.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian13 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian13 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/13.jpg);
+    transition: transform 1s;
+}.tupian .tupian14 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian14 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/14.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian15 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian15 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/15.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian16 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian16 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/16.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian17 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian17 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/17.jpg);
+    transition: transform 1s;
+}
+.tupian .tupian18 {
+    float: left;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+.tupian18 a {
+    display: block;
+    width: 320px;
+    height: 320px;
+    background: url(images/18.jpg);
+    transition: transform 1s;
+}
+.tupian a:hover {
+    transform: scale(1.1);
+}
+.tupian p{
+    float: left;
+    font-size: 18px;
+    margin-top: 9px;
+    margin-left: 133px;
+}
+.zj{
+    float: left;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.zhongjian {
+    float: left;
+    margin-left: 40px;
+    width: 350px;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+.zjb {
+    float: left;
+}
+.zhongjian ul li a{
+    float: left;
+    padding-left: 5px;
+    text-decoration: dashed;
+    color: #000;
+    font-size: 18px;
+    line-height: 40px;
+}
+.zhongjian ul li a:hover {
+    color: red;
+}
+.zjb:hover {
+    border-bottom: 2px solid red;
+}
+.zhongjian a {
+    float: right;
+    color: #000;
+    text-decoration: dashed;
+    font-size: 20px;
+}
+.zhongjian a:hover{
+    color: red;
+}
+.jksy {
+    padding-top: 5px;
+}
+.zhongjian img {
+    width: 350px;
+    padding-top: 18px;
+}
+.dibu {
+    float: left;
+    margin-top: 510px;
+    width: 100%;
+    height: 245px;
+    color: #666666;
+    font-size: 10px;
+    position: relative;
+}
+.dibu h1 {
+    color: #ff5500;
+    padding-left: 100px;
+}
+h1 {
+    border-top: 1px solid black;
+}
+.dibu p img{
+    width: 20px;
+    height: 20px;
+}
+.p1 {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.p22 {
+    padding-left: 100px;
+}
+.dibu1 img{
+    width: 80px;
+    height: 80px;
+}
+.dibu1 ul {
+    padding-left: 1000px;
+    margin-top: -110px;
+}
+.dibu1 ul li {
+    float: left;
+    padding-left: 20px;
+}

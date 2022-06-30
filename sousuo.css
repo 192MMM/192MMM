@@ -1,0 +1,211 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: dashed;
+}
+.daohanglan {
+    background: #333333;
+    height: 50px;
+}
+.daohanglan img {
+    float: left;
+}
+.daohanglan ul {
+    float: left;
+    padding-left: 5px;
+}
+.daohanglan ul li {
+    float: left;
+    padding-left: 13px;
+    margin-top: 13.5px;
+}
+.daohanglan a{
+    font-size: 16px;
+    color: #ccc;
+}
+.daohanglan a:hover {
+    color: #fff;
+}
+.daohanglan ul .a2 {
+    color: white;
+    float: right;
+    margin-left: 870px;
+}
+.daohanglan ul .a {
+    color: white;
+    float: right;
+    margin-right: -50px;
+}
+.sousuo ul li {
+    float: left;
+    padding-left: 20px;
+}
+.sousuo ul li a {
+    color: #000;
+}
+.sousuo ul li a:hover {
+    color: red;
+}
+.sousuo ul {
+    padding-top: 25px;
+    padding-left: 630px;
+    font-size: 20px;
+}
+.sousuo .h {
+    color: red;
+}
+.bg {
+    margin-top: 90px;
+    margin-left: 60px;
+}
+.bg .s1 input {
+    border: 2px solid red;
+    width: 500px;
+    height: 45px;
+    margin-left: 400px;
+    float: left;
+    margin-top:  -50px;
+}
+.bg input {
+    margin-top: 10px;
+}
+.bg .ss {
+    float: left;
+    margin-left: 904px;
+    margin-top: -70.5px;
+    width: 124px;
+    height: 49px;
+    background-color: #ff6767;
+    position: relative;
+    font-size: 18px;
+}
+.bg .ss a {
+    color: white;
+    padding-left: 40px;
+    line-height: 50px;
+}
+.bg .ss a:hover {
+    text-decoration: underline;
+}
+.o{
+    float: left;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.fc{
+    margin-right: 75px;
+}
+.fc2{
+    float: left;
+    margin-left: 100px;
+}
+.z1{
+    margin-left: 8px;
+}
+.z1 ul {
+    padding-left: 300px;
+}
+.z1 ul li img {
+    float: left;
+}
+.z1 ul li h2 {
+    float: left;
+    color: red;
+}
+.z2 {
+    padding-top: 70px;
+    /* margin-left: 300px; */
+}
+.z2 img {
+    float: left;
+}
+.z2 a h2 {
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+}
+.z2 p{
+    padding-top: 15px;
+    font-size: 13px;
+    color: rgb(125, 121, 121);
+}
+/* .a */
+.z3 {
+    margin-top: -300px;
+    margin-left: 850px;
+}
+.z3 img {
+    float: left;
+}
+.z3 a h2 {
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+}
+.z3 p{
+    padding-top: 15px;
+    font-size: 13px;
+    color: rgb(125, 121, 121);
+}
+.z3 ul li img {
+    float: left;
+}
+.z3 ul li h2 {
+    float: left;
+    color: red;
+}
+.fc{
+    float: left;
+    margin-left: 350px;
+}
+.dibu {
+    float: left;
+    margin-top: 110px;
+    width: 100%;
+    height: 245px;
+    color: #666666;
+    font-size: 10px;
+    position: relative;
+}
+.dibu h1 {
+    color: #ff5500;
+    padding-left: 100px;
+}
+h1 {
+    border-top: 1px solid black;
+}
+.dibu p img{
+    width: 20px;
+    height: 20px;
+}
+.p1 {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.p22 {
+    padding-left: 100px;
+}
+.dibu1 img{
+    width: 80px;
+    height: 80px;
+}
+.dibu1 ul {
+    padding-left: 1000px;
+    margin-top: -110px;
+}
+.dibu1 ul li {
+    float: left;
+    padding-left: 20px;
+}
+.right{
+    padding-left: 800px;
+    margin-top: -300px;
+}
+.right ul li img{
+float: left;
+}
+.right ul li h2{
+    float: left;
+}

@@ -1,0 +1,152 @@
+*{margin:0 auto; padding: 0;}
+.q{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.ks{
+    margin-left: 75px;
+}
+.daohanglan {
+    background: #333333;
+    height: 50px;
+}
+.daohanglan img {
+    float: left;
+}
+.daohanglan ul {
+    float: left;
+    padding-left: 5px;
+}
+.daohanglan ul li {
+    float: left;
+    padding-left: 13px;
+    margin-top: 13.5px;
+}
+.daohanglan a{
+    font-size: 16px;
+    color: #ccc;
+}
+.daohanglan a:hover {
+    color: #fff;
+}
+.daohanglan ul .gy{
+    float: right;
+    margin-left: 930px;
+    margin-top: 10px;
+    line-height: 30px;
+    width: 83px;
+    height: 30px;
+    background-color: rgb(212, 212, 212);
+    border-radius: 6px;
+    margin-right: -1000px;
+}
+.daohanglan ul .gy:hover{
+    background-color: #fff;
+}
+.daohanglan ul .gy a{
+    color: #000;
+}
+.tp{
+    width: 100%;
+    height: 700px;
+    background: url(images/mb.jpg) no-repeat;
+    background-size: 100% 950px;
+}
+.biaoge {
+    width: 528px;
+    height: 335px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+.sm a:hover {
+    color: red;
+}
+.left {
+    width: 264px;
+    height: 50px;
+    float: left;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.left a{
+    color: white;
+    font-size: 22px;
+    padding-left: 100px;
+    padding-top: 7px;
+}
+.right {
+    width: 264px;
+    height: 50px;
+    float: left;
+}
+.right a {
+    color: #000;
+    font-size: 22px;
+    padding-left: 100px;
+}
+.zuo {
+    width: 300px;
+    margin-top: 90px;
+    margin-left: 30px;
+    border-right: 1px solid #000;
+}
+.zuo .s1 input {
+    border: 1px solid black;
+    width: 260px;
+    height: 35px;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+.zuo .s2 input {
+    border: 1px solid black;
+    width: 260px;
+    height: 35px;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+.bg4 input {
+    margin-top: 10px;
+}
+ .bg4 .s3 {
+    padding-top: 10px;
+}
+.dengl {
+    width: 270px;
+    height: 40px;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: -10px;
+}
+.dengl a {
+    padding-left: 122px;
+    font-size: 20px;
+    color: #fff;
+}
+.youbian {
+    float: right;
+    margin-top: -200px;
+    padding-right: 20px;
+}
+.youbian img {
+    width: 120px;
+    height: 120px;
+}
+.youbian p {
+    font-size: 15px;
+    margin-left: -10px;
+}
+.youbian div img {
+    padding-top: 13px;
+    width: 40px;
+    height: 40px;
+}
